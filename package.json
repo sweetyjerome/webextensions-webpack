@@ -1,5 +1,5 @@
 {
-  "name": "webextensions-webpack-boilerplate",
+  "name": "webextensions-webpack",
   "version": "0.1.0",
   "description": "A boilerplate for creating a browser extension with webpack",
   "author": "Filip Stanis <filip@stanis.me>",
